@@ -9,10 +9,10 @@ A live web version of the Netflix-style app where you can explore UI and feature
 ## 📸 Screenshots  
 Below are some UI previews of the application:
 
-![Screenshot](screenshot/i1.png)
-![Screenshot](screenshot/i2.png)
-![Screenshot](screenshot/i3.png)
-![Screenshot](screenshot/i4.png)
+![screenshot](screenshot/i1.png)
+![screenshot](screenshot/i2.png)
+![screenshot](screenshot/i3.png)
+![screenshot](screenshot/i4.png)
 
 ---
 
